@@ -45,5 +45,6 @@ I'm embarking on my programming journey into the vast world of technology, where
 <br>
 <br>
 
-! [Pickachu wave] (https://github.com/TadhgRuarc/TadhgRuarc/blob/main/Pickachu_wave.gif)
-   
+
+   ![Pickachu_wave](https://github.com/TadhgRuarc/TadhgRuarc/assets/106252963/afb18e67-cc25-4954-9675-54c6d7349320)
+
