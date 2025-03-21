@@ -5,9 +5,6 @@
 ***
 
 I'm embarking on my programming journey into the vast world of technology, where I'm currently immersed in crafting small projects that tackle real-life challenges with innovative solutions, alongside developing engaging games for entertainment. Join me as I navigate through the trails and tribulations on my path towards mastering the art of coding.
-> I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better
->
--Elon Musk
 
 
 ***
@@ -16,7 +13,7 @@ I'm embarking on my programming journey into the vast world of technology, where
 
 📚 During the boot camp, our primary focus was on mastering Python, while also gaining valuable exposure to databases, HTML, and CSS
 
-🧙 On a journey to become a wizard in the art of coding, currently at the junior level
+🧙 On a journey to become a wizard in the art of coding
 
 <br>
 
